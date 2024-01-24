@@ -1,5 +1,5 @@
 body {
-  background: #575457;
+  background: #423f42c4;
   }
 
 .container {
@@ -12,6 +12,7 @@ h1 {
   font-size: 3rem;
   text-align: center;
   font-weight: 300;
+  text-decoration: underline;
 }
   
 img {
@@ -31,7 +32,7 @@ form {
   cursor: pointer;
   display: block;
   position: relative;
-  background-color: #474345;
+  background-color: #332f31;
   padding: 20px 80px;
   margin: 0 auto;
   border-radius: 20px;
